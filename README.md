@@ -12,8 +12,10 @@
 - Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 ## Results: 
+
 ### Naive Random Oversampling:
 <img width="688" alt="Screen Shot 2021-10-17 at 10 41 28 PM" src="https://user-images.githubusercontent.com/85847344/137675099-563043fc-fa5c-428c-b6d2-06e0b77c9eb6.png">
+
 * Accuracy: 0.67
 * Precision (Avg): 0.99
 * Recall: 0.61
